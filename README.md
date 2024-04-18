@@ -16,6 +16,7 @@ In contrast to GD variants, which approximate the cost function linearly to reac
 - numpy
 - abc
 - seaborn
+- sklearn
 
 ## 🛠️ Implementation
 
